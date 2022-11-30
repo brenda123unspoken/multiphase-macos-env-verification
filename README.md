@@ -27,7 +27,7 @@ the validator.
 
 ## Troubleshooting
 
-### Fixing NVM and RVM Dotfile Issues for MacOS
+### Fixing NVM Issues for MacOS
 
 If you are having trouble getting NVM or Node to work, you may have an
 issue with your `.zshrc` file. To fix, we need to run two commands.
