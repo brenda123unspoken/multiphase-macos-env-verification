@@ -29,7 +29,7 @@ the validator.
 
 ### Fixing NVM and RVM Dotfile Issues for MacOS
 
-If you are having trouble getting RVM, Ruby, NVM or Node to work, you may have an
+If you are having trouble getting NVM or Node to work, you may have an
 issue with your `.zshrc` file. To fix, we need to run two commands.
 
 The first command makes a backup of your current `.zshrc` file:
