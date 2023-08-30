@@ -11,7 +11,7 @@ $ curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manua
 
 ## Check Your Work
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CNuoCmve-xc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/50sUXwuE6jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Note: your output from the verification script may include some different checks
 than are shown in the video. Do not be concerned if that's the case — the
@@ -74,7 +74,7 @@ To confirm Node is installed, run:
 $ nvm list
 ```
 
-If you see a message starting with "-> v14.13.0" (or any number higher than
+If you see a message starting with "-> v18.17.1" (or any number higher than
 this), a version of Node is installed that will work for this course.
 
 > If you don't see this number, install the newest version of Node:
