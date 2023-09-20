@@ -11,7 +11,7 @@ $ curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manua
 
 ## Check Your Work
 
-<iframe width="560" height="315" src="https://youtu.be/50sUXwuE6jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/50sUXwuE6jw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Note: your output from the verification script may include some different checks
 than are shown in the video. Do not be concerned if that's the case — the
